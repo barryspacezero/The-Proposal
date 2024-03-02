@@ -1,0 +1,57 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.c2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1%;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.c3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25%;
+}
+
+.centered-gif {
+    display: block;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+#yesBtn{
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+#noBtn{
+    background-color: #f44336;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: not-allowed;
+    border-radius: 12px;
+}
+
+
+  
